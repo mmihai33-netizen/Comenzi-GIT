@@ -1,3 +1,27 @@
+### Setari globale 1 data pe calculator
+
+## Citirea email aferent contului
+git config user.email
+
+## Schimbarea email afenrent contului
+git config user.email "nouemail@mail.com"
+
+## Citirea email NIVEL GLOBAL aferent contului
+git config --global user.email
+
+## Schimbarea email NIVEL GLOBAL afenrent contului
+git config --global user.email "nouemail@mail.com"
+
+## Citirea nume NIVEL GLOBAL aferent contului
+git config --global user.name
+
+## Schimbarea nume NIVEL GLOBAL afenrent contului
+git config --global user.name "nouemail@mail.com"
+
+## Setarea numelui branch-ului principal
+git config --global init.defaultBranch "main"
+
+
 ## Initializare de pe local 
 git init
 
