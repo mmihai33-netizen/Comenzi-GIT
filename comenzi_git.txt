@@ -1,0 +1,5 @@
+## Initializare de pe local 
+git init
+
+## Descarcare de pe server -> Inlocuire URL
+git clone http://github.com/username/proiectname
